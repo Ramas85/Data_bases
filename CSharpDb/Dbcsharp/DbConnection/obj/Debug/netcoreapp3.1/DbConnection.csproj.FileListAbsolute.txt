@@ -1,0 +1,9 @@
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\bin\Debug\netcoreapp3.1\DbConnection.deps.json
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\bin\Debug\netcoreapp3.1\DbConnection.dll
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\bin\Debug\netcoreapp3.1\DbConnection.pdb
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\obj\Debug\netcoreapp3.1\DbConnection.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\obj\Debug\netcoreapp3.1\DbConnection.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\obj\Debug\netcoreapp3.1\DbConnection.AssemblyInfo.cs
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\obj\Debug\netcoreapp3.1\DbConnection.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\obj\Debug\netcoreapp3.1\DbConnection.dll
+C:\Users\Vartotojas\Desktop\KITM\DB\CSharpDb\Dbcsharp\DbConnection\obj\Debug\netcoreapp3.1\DbConnection.pdb

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6719764-a37f-4f01-a2cc-300fee942fef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DbConnection/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irYx9jU8jlCZXNUwWZ9WTXSY6Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SQL Dialects" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6719764-a37f-4f01-a2cc-300fee942fef" name="Default Changelist" comment="" />
+      <created>1602667422163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602667422163</updated>
+      <workItem from="1602667439380" duration="8590000" />
+      <workItem from="1603087473173" duration="6688000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="136" key="#SQL_Dialects" timestamp="1603093580006">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="107" y="136" key="#SQL_Dialects/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603093580006" />
+    <state x="118" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603093832364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="118" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603093832364" />
+    <state x="253" y="90" key="Rider.ProjectTemplateDialog.Size" timestamp="1602667952517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="90" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1602667952517" />
+    <state x="265" y="18" key="SettingsEditor" timestamp="1603092499146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="18" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603092499146" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603092239599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603092239599" />
+  </component>
+</project>
