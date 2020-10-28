@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="9dcb49fe-45c8-40dc-9ef9-094eac39fcfa">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Vartotojas\Desktop\KITM\DB\DatabaseExamples-master\db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db_relashionships_execise" uuid="e277821d-4e1b-4122-bd04-53e742cb0607">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Vartotojas\Desktop\KITM\DB\DatabaseExamples-master\db_relashionships_execise</jdbc-url>
+    </data-source>
+  </component>
+</project>
